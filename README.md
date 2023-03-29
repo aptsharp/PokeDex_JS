@@ -1,1 +1,14 @@
 # PokeDex_JS
+
+o projeto inclui os seguintes tecnologias
+normalize. -> CDN normalize.css
+
+https://necolas.github.io/normalize.css/
+
+https://cdnjs.com/libraries/normalize
+
+tecnologia usada 
+http-server 
+para instalar npm http-server
+para excutar na pasta local http-server ./ 
+com esse servidor, todo mundo da mesma rede tem acesso
