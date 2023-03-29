@@ -11,7 +11,7 @@ tecnologia usada
 http-server 
 para instalar npm http-server
 para excutar na pasta local http-server ./ 
-com esse servidor, todo mundo da mesma rede tem acesso
+com esse servidor, todo mundo da mesma rede tem acesso.
 
 
 
