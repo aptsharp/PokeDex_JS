@@ -13,6 +13,10 @@ para instalar npm http-server
 para excutar na pasta local http-server ./ 
 com esse servidor, todo mundo da mesma rede tem acesso.
 
+a api utilizada é 
+https://pokeapi.co/
+repositorio gratuito onde estão todos os pokemons utilizados no projeto.
+
 
 
 
