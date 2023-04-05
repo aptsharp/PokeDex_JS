@@ -110,9 +110,36 @@ testes
  <div>`
  );
 
+
+## orientação a prototipo, funções construturas. 
  
+function Pessoa(nome, idade) {
+  this.nome = nome;
+  this.idade = idade;
+}
+
+Pessoa.prototype.cumprimentar = function() {
+  console.log(`Olá, meu nome é ${this.nome} e eu tenho ${this.idade} anos.`);
+};
+
+const pessoa1 = new Pessoa('João', 30);
+pessoa1.cumprimentar(); // output: Olá, meu nome é João e eu tenho 30 anos.
 
 
+exemplo, criamos uma função construtora Pessoa que recebe um nome e uma idade e cria um objeto pessoa com essas propriedades. Em seguida, adicionamos um método cumprimentar() ao protótipo da função construtora Pessoa, que imprime uma mensagem de saudação na tela. Finalmente, criamos um novo objeto pessoa1 usando a função construtora Pessoa e chamamos o método cumprimentar() no objeto pessoa1.
+
+
+#anotações
+
+Funções em JavaScript são tratadas como cidadãos de primeira classe (ou First Class Citizens), o que significa que elas podem ser armazenadas em variáveis, passadas como argumentos para outras funções e retornadas como valores de outras funções.
+
+Uma função que recebe outra função como argumento ou retorna uma função é chamada de Higher Order Function (HOF). HOFs são uma parte importante da programação funcional em JavaScript e são usados ​​para simplificar o código, torná-lo mais legível e reutilizável.
+
+Existem duas formas principais de definir funções em JavaScript: Function Declaration e Function Expression. Function Declaration define uma função como uma declaração separada e pode ser chamada antes da sua declaração no código. Function Expression define uma função como uma expressão dentro de outra instrução, como uma atribuição de variável.
+
+A manipulação de listas em JavaScript pode ser feita usando funções de array de ordem superior, como map, filter e reduce. O método map percorre uma lista e cria uma nova lista transformando cada elemento com uma função passada como argumento. O método filter cria uma nova lista de elementos que atendem a uma determinada condição especificada por uma função. O método reduce combina todos os elementos de uma lista em um único valor, geralmente com uma função que acumula os resultados.
+
+Em resumo, funções de ordem superior e manipulação de listas com funções são recursos poderosos do JavaScript que ajudam a tornar o código mais legível, reutilizável e expressivo.
 
 
 ``` Enjoy!®️ ```
