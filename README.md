@@ -1,6 +1,6 @@
 # PokeDex_JS
 
-### ¬¬ PROJETO AINDA ESTA EM DESENVOLVIMENTO ¬¬
+### ¬¬  👉🏻👉🏻 PROJETO AINDA ESTA EM DESENVOLVIMENTO 👈🏻👈🏻 ¬¬
 
 o projeto inclui os seguintes tecnologias
 normalize. -> CDN normalize.css
