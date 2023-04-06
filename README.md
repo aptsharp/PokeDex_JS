@@ -141,6 +141,15 @@ A manipulação de listas em JavaScript pode ser feita usando funções de array
 
 Em resumo, funções de ordem superior e manipulação de listas com funções são recursos poderosos do JavaScript que ajudam a tornar o código mais legível, reutilizável e expressivo.
 
+## manipulação de listas.
+
+forEach() -> precorre a lista orientado a funções. 
+
+O método forEach() é uma das maneiras de percorrer uma lista (ou array) em JavaScript. Ele é uma função de ordem superior (higher-order function) que recebe como argumento uma função de callback que é executada para cada elemento da lista.
+
+
+
+
 
 ``` Enjoy!®️ ```
 
