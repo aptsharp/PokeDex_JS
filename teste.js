@@ -95,7 +95,6 @@ pessoas.forEach((pessoas) => {
 console.log(nomes);
 console.log(idades);
 
-
 const numeros = [1, 2, 3, 4, 5];
 
 numeros.forEach((numero, indice, array) => {
@@ -103,3 +102,9 @@ numeros.forEach((numero, indice, array) => {
 });
 
 console.log(numeros);
+
+console.log("------------------------------");
+console.log('funções de primeira ordem');
+
+
+

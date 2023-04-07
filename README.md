@@ -163,6 +163,8 @@ map ->  é usado para iterar sobre todos os elementos de um array, aplicando uma
 
 foreach -> é usado para iterar sobre todos os elementos de um array, e executar uma determinada ação para cada um deles, sem alterar o array original. A função de callback passada como parâmetro recebe cada elemento do array em ordem, e pode realizar uma ação com base nele. 
 
-reduce
-join e combinação de funções de manipulação.
+reduce -> o objetivo e reduzir os elementos a 1
+acumula os elementos de uma lista em um único valor, utilizando uma função de redução que combina cada elemento com o acumulador.
 
+join e combinação de funções de manipulação. -> une todos os elementos em um.
+une todos os elementos de uma lista em uma única string, separando os elementos por um separador definido.
