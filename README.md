@@ -154,3 +154,15 @@ O método forEach() é uma das maneiras de percorrer uma lista (ou array) em Jav
 ``` Enjoy!®️ ```
 
 <img src="https://cameronmcefee.com/img/work/the-octocat/walk-1.gif" width="50"><img src="https://cameronmcefee.com/img/work/the-octocat/walk-2.gif" width="50"><img src="https://cameronmcefee.com/img/work/the-octocat/walk-3.gif" width="50">
+
+Temas para estudar:
+
+filter ->  é usado para iterar sobre todos os elementos de um array, aplicando uma determinada condição a cada um deles e retornando um novo array com os elementos que atendem a essa condição. Ele não altera o array original. A função de callback passada como parâmetro deve retornar um valor booleano, que indica se o elemento atual deve ser adicionado ao novo array ou não.
+
+map ->  é usado para iterar sobre todos os elementos de um array, aplicando uma função de transformação em cada um deles e retornando um novo array com os valores transformados. Ele não altera o array original. A função de callback passada como parâmetro deve retornar um valor, que será adicionado ao novo array.
+
+foreach -> é usado para iterar sobre todos os elementos de um array, e executar uma determinada ação para cada um deles, sem alterar o array original. A função de callback passada como parâmetro recebe cada elemento do array em ordem, e pode realizar uma ação com base nele. 
+
+reduce
+join e combinação de funções de manipulação.
+
