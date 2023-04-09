@@ -168,3 +168,7 @@ acumula os elementos de uma lista em um único valor, utilizando uma função de
 
 join e combinação de funções de manipulação. -> une todos os elementos em um.
 une todos os elementos de uma lista em uma única string, separando os elementos por um separador definido.
+
+## aprofundar os estudos em 
+1) funções 
+2) manipulação de listas
