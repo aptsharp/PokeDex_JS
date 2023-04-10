@@ -9,3 +9,5 @@ pokeApi.getPokemons = (offset = 0, limit = 10) => {
 };
 
 // ser dono da plataforma! contra o jogo
+
+// dar uma olhada em assincronismo promisses observable
